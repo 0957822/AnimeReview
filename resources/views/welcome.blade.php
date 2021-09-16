@@ -7,6 +7,7 @@
     </head>
     <body>
     <h1>Welcome to Anime Village</h1>
+    <p>Register and login to discover and explore the world of anime</p>
     <button>Login</button> <button>Register</button>
     </body>
 </html>
