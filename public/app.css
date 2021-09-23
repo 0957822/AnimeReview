@@ -1,0 +1,78 @@
+body{
+    background-color: grey;
+    color: white;
+    max-width: 100vw;
+}
+header{
+    text-align: center;
+    background-color: dimgrey;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+section.menu{
+    margin: 10px 10px 10px 10px;
+    color:white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: black;
+}
+
+section.banner{
+    max-width: 100vw;
+    height: 150px;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    background-color: dimgrey;
+}
+a{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    background-color: grey;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+section.posts{
+    background-color: dimgrey;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+h3{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+.populair{
+    display: inline-block;
+    width: 20%;
+    height: 100px;
+    background-color: gray;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+}
+footer{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    background-color: dimgrey;
+}
