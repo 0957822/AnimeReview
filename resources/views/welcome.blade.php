@@ -8,6 +8,7 @@
         <title>Welcome</title>
     </head>
     <header>
+        <img src="/images/background.jpg" alt="image">
         <h1>Anime Village</h1>
     </header>
     <body>
